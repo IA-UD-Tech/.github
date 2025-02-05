@@ -1,8 +1,6 @@
 ## 🤖 IA-UD Tech
 
-🚀 Somos el equipo encargado de impulsar la investigación, desarrollo e innovación en inteligencia artificial dentro de la **Universidad de Deusto**.
-
-👩‍💻 [Deusto](https://www.deusto.es/es/inicio)
+🚀 Somos el equipo encargado de impulsar la investigación, desarrollo e innovación en inteligencia artificial dentro de la [**Universidad de Deusto**](https://www.deusto.es/es/inicio).
 
 
 <!--
